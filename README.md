@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Izzat</h1>
 <h3 align="center">A passionate data engineering student</h3>
 
-<img align ="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/1c/4f/ac/1c4facad627b098885aec6266b8c6c0e.gif">
+
 
 - 🔭 I’m currently working on **Pandas Mini Projects**
 
-- 🌱 I’m currently learning **Phyton**
+- 🌱 I’m currently learning **Pandas**
 
-- 💬 Ask me about **anything fr**
+- 💬 Ask me about **anything**
+  
+- 📫 My Personal email **qeemi1246@gmail.com**
 
-- 📫 How to reach me **qeemi1246@gmail.com**
+- 📫 My Student email **izzathaqeemi@graduate.utm.my**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,38 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izzathaqeemi&show_icons=true&locale=en" alt="izzathaqeemi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izzathaqeemi&" alt="izzathaqeemi" /></p>
 
-
-
-
-
-- <b>Portfolio / Projects</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
