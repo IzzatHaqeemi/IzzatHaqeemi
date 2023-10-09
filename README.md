@@ -25,7 +25,7 @@
 
 <br>
   
-<div style="display: flex;">
+<div style="display: flex; flex-wrap: nowrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=IzzatHaqeemi&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="display: inline-block;"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IzzatHaqeemi&theme=synthwave&hide_border=false" alt="GitHub Streak" style="display: inline-block;"/>
 </div>
